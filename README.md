@@ -4,7 +4,6 @@
      
 - 🔭 I’m currently working on ... Vuejs 💚, Angular 📕, and Ionic 🔵 
 - 🌱 I’m currently learning ... Nodejs ⚫, Python 🐍, DevOps 🧰
-- 👯 I’m looking to collaborate on ... 
 - 💬 Ask me about ... JavaScript and CSS 🎨
 - ⚡ Fun facts: 
   - I love writing my own CSS 🎨
