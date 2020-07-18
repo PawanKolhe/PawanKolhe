@@ -1,14 +1,12 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-
-
 `Looking to contribute to some awesome projects.`
 
-
+<img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
 
 🔭 I’m currently working on **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵   
 🌱 I’m currently learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
-💬 Ask me about **JavaScript** and **CSS**  
+💬 Ask me about **JavaScript**, **CSS** and **AWS** ☁️  
 ⚡ Fun facts:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ I love writing my own CSS 🎨  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Java was my first language ☕  
