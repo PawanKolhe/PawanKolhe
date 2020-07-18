@@ -11,9 +11,10 @@
   - I love writing my own CSS 🎨  
   - Java was my first language ☕  
   
-<br>
+<br/>
+<br/>
 
-<a width="50" href="https://www.linkedin.com/in/kolhepawan/">
+<a href="https://www.linkedin.com/in/kolhepawan/">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://twitter.com/Pawan_Kolhe">
