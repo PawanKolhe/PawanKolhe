@@ -8,8 +8,8 @@
 🌱 I’m currently learning ... Nodejs ⚫, Python 🐍, DevOps 🧰  
 💬 Ask me about ... JavaScript and CSS 🎨  
 ⚡ Fun facts:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ I love writing my own CSS 🎨  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Java was my first language ☕  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ I love writing my own CSS 🎨  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Java was my first language ☕  
   
 <br/>
 <br/>
