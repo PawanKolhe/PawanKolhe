@@ -14,15 +14,15 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/kolhepawan/">
+<a href="https://www.linkedin.com/in/kolhepawan/" target="_blank">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-<a href="https://twitter.com/Pawan_Kolhe">
+<a href="https://twitter.com/Pawan_Kolhe" target="_blank">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
-<a href="https://www.instagram.com/pawan_kolhe/">
+<a href="https://www.instagram.com/pawan_kolhe/" target="_blank">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-<a href="https://codepen.io/pawankolhe/">
+<a href="https://codepen.io/pawankolhe/" target="_blank">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
 </a>
