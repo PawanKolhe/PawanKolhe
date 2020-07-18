@@ -15,6 +15,8 @@
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
 </a>
 
+<br>
+
 <img src="https://pawankolhe.com/img/logo.svg" align="right" alt="Size Limit logo by Anton Lovchikov" width="120" height="178">  
 
 - 🔭 I’m currently working on ... Vuejs 💚, Angular 📕, and Ionic 🔵   
