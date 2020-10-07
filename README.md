@@ -10,8 +10,7 @@
 💬 Ask me about **JavaScript**, **CSS** or anything web dev ☁️  
 ⚡ Fun facts:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Proficient at JavaScript 🛡   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Love writing CSS 🎨  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Java was my first language ☕  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Love writing CSS 🎨
   
 <br/>
 <br/>
