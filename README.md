@@ -4,7 +4,7 @@
 
 <img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
 
-🔭 I’m currently working with **React 💙** and **Strapi** 🟪  
+🔭 I’m currently exploring **React 💙** and **Strapi** 🟪  
 ⭐️ Have worked with **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵  
 🌱 I’m currently learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
 💬 Ask me about **JavaScript**, **CSS** or anything web dev ☁️  
