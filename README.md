@@ -1,16 +1,15 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-`Looking for an awesome place to work.`
+`Building beautiful user-centric web applications.`
 
 <img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
 
-🔭 I’m currently exploring **React 💙** and **Strapi** 🟪  
-⭐️ Have worked with **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵  
-🌱 I’m currently learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
-💬 Ask me about **JavaScript**, **CSS** or anything web dev ☁️  
-⚡ Fun facts:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Proficient at JavaScript 🛡   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‒ Love writing CSS 🎨
+💛 In love with **JavaScript**  
+🎨 Love writing **CSS**  
+🔭 Currently exploring **React 💙** and **Strapi** 🟪  
+⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵  
+🌱 Learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
+💬 Ask me anything web dev  
   
 <br/>
 <br/>
