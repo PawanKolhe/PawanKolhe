@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-`Building beautiful user-centric web applications.`
+`Building beautiful user-centric web applications`
 
 <img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
 
