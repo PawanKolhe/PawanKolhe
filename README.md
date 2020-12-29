@@ -10,7 +10,9 @@
 ⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵  
 🌱 Learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
 💬 Ask me anything web dev  
-  
+
+<br/>
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
