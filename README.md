@@ -11,6 +11,9 @@
 🌱 Learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
 💬 Ask me anything web dev  
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <br/>
 <br/>
 
