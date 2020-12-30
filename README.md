@@ -4,11 +4,11 @@
 
 <img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
 
-💛 In love with **JavaScript**  
+💛 In love with **JavaScript** / **TypeScript**  
 🎨 Love writing **CSS**  
-🔭 Currently exploring **React 💙** and **Strapi** 🟪  
-⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, and **Ionic** 🔵  
-🌱 Learning **Nodejs** ⚫, **Python** 🐍, **DevOps** 🧰  
+🔭 Currently working with **React 💙** and **Strapi** 🟪  
+⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, **Ionic** 🔵, and **Nodejs** ⚫  
+🌱 Learning **Python** 🐍 and **DevOps** 🧰  
 💬 Ask me anything web dev  
 
 <br/>
