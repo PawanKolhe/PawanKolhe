@@ -58,6 +58,6 @@ VS Code                  42 hrs 46 mins      ███████████�
 <a href="https://codepen.io/pawankolhe/">
   <img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg">
 </a>
-<a href="https://codepen.io/pawankolhe/">
+<a href="https://dev.to/pawankolhe">
   <img align="left" width="21" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">
 </a>
