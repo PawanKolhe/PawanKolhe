@@ -6,8 +6,8 @@
 
 💛 In love with **JavaScript** / **TypeScript**  
 🎨 Love writing **CSS** / **Sass**  
-🔭 Currently working with **React 💙** and **Strapi** 🟪  
-⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, **Ionic** 🔵, and **Nodejs** ⚫  
+🔭 Currently working with **Next.js** ⚫, **React** 💙, and **Strapi** 🟪  
+⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, **Ionic** 🔵, and **Nodejs** ⚪️  
 🌱 Learning **Python** 🐍 and **DevOps** 🧰  
 💬 Ask me anything web dev  
 
