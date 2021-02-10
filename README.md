@@ -2,7 +2,7 @@
 
 `Building the web. One line at a time.`
 
-<img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="150">  
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" align="right" alt="AWS SAA logo" width="150">  
 
 💛 In love with **JavaScript** / **TypeScript**  
 🎨 Love writing **CSS** / **Sass**  
