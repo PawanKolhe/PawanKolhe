@@ -4,11 +4,11 @@
 
 <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" align="right" alt="AWS SAA logo" width="150">  
 
-💛 In love with **JavaScript** / **TypeScript**  
+💛 In love with **JavaScript**  
 🎨 Love writing **CSS** / **Sass**  
-🔭 Currently working with **Next.js** ⚫, **React** 💙, **Redux** 🟣, and **Strapi** 🟪  
-⭐️ Previously worked with **Vuejs** 💚, **Angular** 📕, **Ionic** 🔵, and **Nodejs** ⚪️  
-🌱 Learning **Python** 🐍 and **DevOps** 🧰  
+🔭 Currently working with **TypeScript** 🟦, **React** 💙, **Redux** 🟣, **Strapi** 🟪  
+⭐️ Previously worked with **Vuejs** 💚, **Angular** ❤️, **Ionic** 🔵, **MobX** 🟧, **Next.js** 🖤  
+🌱 Learning **Python** 🐍 and **Cloud** ☁️  
 💬 Ask me anything web dev  
 
 <br/>
