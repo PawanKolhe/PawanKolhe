@@ -1,14 +1,21 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-`Building the web. One line at a time.`
+Working on Engineering Productivity (Frontend) and AI initiative @ [Certa.ai](https://www.getcerta.com/)
+
+## Tech Stack
 
 <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" align="right" alt="AWS SAA logo" width="150">  
 
-💛 In love with **JavaScript**  
-🎨 Love writing **CSS** / **Sass**  
-🔭 Currently working with **TypeScript**, **React**, **Redux**, **Strapi**  
-⭐️ Previously worked with **Vuejs**, **Angular**, **Ionic**, **MobX**, **Next.js**  
-🌱 Learning **Python** and **Cloud**  
+
+💛 **Language** - JavaScript / TypeScript  
+🎨 **Styling** - CSS / Sass / Emotion / styled-components  
+⛩️ **Frameworks** - React / Next.js  
+🔭 **Libraries** - react-query / Zustand  
+🧪 **Testing** - Vitest / Jest  
+🚀 **Tooling** - Nx / Turborepo / Storybook / jscodeshift / ESLint / Vite / webpack  
+☁ **DevOps** - AWS / GitHub Actions  
+
+⭐️ Previously worked with Vuejs, Angular, Ionic, MobX  
 💬 Ask me anything web dev  
 
 <br/>
