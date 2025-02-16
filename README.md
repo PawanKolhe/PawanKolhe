@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-Working on Engineering Productivity (Frontend) and AI initiative @ [Certa.ai](https://www.getcerta.com/)
+Frontend Engineer working on Performance, AI, Engineering Productivity initiatives @ [Certa](https://www.certa.ai/)
 
 ## Tech Stack
 
