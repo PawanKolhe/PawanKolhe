@@ -7,8 +7,8 @@ Working on Engineering Productivity (Frontend) and AI initiative @ [Certa.ai](ht
 <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" align="right" alt="AWS SAA logo" width="150">  
 
 
+💻 **Editor** - Cursor (with AI) / VSCode  
 💛 **Language** - JavaScript / TypeScript  
-💻 **Editor** - Cursor
 🎨 **Styling** - CSS / Sass / Emotion / styled-components  
 ⛩️ **Frameworks** - React / Next.js  
 🔭 **Libraries** - react-router / react-query / Zustand  
