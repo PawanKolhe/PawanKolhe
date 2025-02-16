@@ -8,48 +8,17 @@ Working on Engineering Productivity (Frontend) and AI initiative @ [Certa.ai](ht
 
 
 💛 **Language** - JavaScript / TypeScript  
+💻 **Editor** - Cursor
 🎨 **Styling** - CSS / Sass / Emotion / styled-components  
 ⛩️ **Frameworks** - React / Next.js  
-🔭 **Libraries** - react-query / Zustand  
+🔭 **Libraries** - react-router / react-query / Zustand  
 🧪 **Testing** - Vitest / Jest  
-🚀 **Tooling** - Nx / Turborepo / Storybook / jscodeshift / ESLint / Vite / webpack  
-☁ **DevOps** - AWS / GitHub Actions  
+🚀 **Tooling** - Nx / Turborepo / Storybook / jscodeshift / Vite / webpack  
+☁ **DevOps** - GitHub Actions / AWS  
 
 ⭐️ Previously worked with Vuejs, Angular, Ionic, MobX  
 💬 Ask me anything web dev  
 
-<br/>
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌆 Daytime    199 commits    ███████░░░░░░░░░░░░░░░░░░   31.24% 
-🌃 Evening    242 commits    █████████░░░░░░░░░░░░░░░░   37.99% 
-🌙 Night      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               23 hrs 50 mins      ██████████████░░░░░░░░░░░   55.73% 
-SCSS                     12 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.95% 
-HTML                     3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
-Markdown                 59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-Other                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
-
-🔥 Editors: 
-VS Code                  42 hrs 46 mins      █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
-  
 <br/>
 <br/>
 
