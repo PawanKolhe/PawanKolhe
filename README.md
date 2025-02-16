@@ -1,6 +1,9 @@
 ![Banner](https://i.imgur.com/gI0q9wP.png)
 
-Frontend Engineer working on Performance, AI, Engineering Productivity initiatives @ [Certa](https://www.certa.ai/)
+**Frontend Engineer** @ [**Certa**](https://www.certa.ai/) working on:
+- 🚀 Performance
+- ✨ AI
+- 💻 Engineering Productivity
 
 ## Tech Stack
 
@@ -16,7 +19,7 @@ Frontend Engineer working on Performance, AI, Engineering Productivity initiativ
 🚀 **Tooling** - Nx / Turborepo / Storybook / jscodeshift / Vite / webpack  
 ☁ **DevOps** - GitHub Actions / AWS  
 
-⭐️ Previously worked with Vuejs, Angular, Ionic, MobX  
+⭐️ Have previously worked with Vuejs, Angular, Ionic, MobX  
 💬 Ask me anything web dev  
 
 <br/>
