@@ -2,22 +2,22 @@
 
 **Frontend Engineer** @ [**Certa**](https://www.certa.ai/) working on:
 - 🚀 Performance
-- ✨ AI
+- 🎨 Design Systems
 - 💻 Engineering Productivity
+- ✨ AI
 
 ## Tech Stack
 
 <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" align="right" alt="AWS SAA logo" width="150">  
 
-
-💻 **Editor** - Cursor (with AI) / VSCode  
 💛 **Language** - JavaScript / TypeScript  
 🎨 **Styling** - CSS / Sass / Emotion / styled-components  
 ⛩️ **Frameworks** - React / Next.js  
-🔭 **Libraries** - react-router / react-query / Zustand  
+🔭 **Libraries** - react-router / react-query / Zustand / Motion  
 🧪 **Testing** - Vitest / Jest  
-🚀 **Tooling** - Nx / Turborepo / Storybook / jscodeshift / Vite / webpack  
+🚀 **Tooling** - Vite / pnpm / Nx / Turborepo / Storybook / jscodeshift / Webpack / Sentry 
 ☁ **DevOps** - GitHub Actions / AWS  
+💻 **Editor** - Cursor (with AI) / VSCode  
 
 ⭐️ Have previously worked with Vuejs, Angular, Ionic, MobX  
 💬 Ask me anything web dev  
