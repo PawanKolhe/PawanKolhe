@@ -15,7 +15,7 @@
 ⛩️ **Frameworks** - React / Next.js  
 🔭 **Libraries** - react-router / react-query / Zustand / Motion  
 🧪 **Testing** - Vitest / Jest  
-🚀 **Tooling** - Vite / pnpm / Nx / Turborepo / Storybook / jscodeshift / Webpack / Sentry 
+🚀 **Tooling** - Vite / pnpm / Nx / Turborepo / Storybook / jscodeshift / Webpack / Sentry  
 ☁ **DevOps** - GitHub Actions / AWS  
 💻 **Editor** - Cursor (with AI) / VSCode  
 
